@@ -1,1 +1,1 @@
-echo " You are in Master Branch"
+echo " You are in Bug Branch"
